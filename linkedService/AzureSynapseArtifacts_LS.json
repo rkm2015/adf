@@ -1,0 +1,12 @@
+{
+	"name": "AzureSynapseArtifacts_LS",
+	"properties": {
+		"annotations": [],
+		"type": "AzureSynapseArtifacts",
+		"typeProperties": {
+			"endpoint": "https://synapseworkspace4nt.dev.azuresynapse.net",
+			"authentication": "MSI",
+			"workspaceResourceId": "/subscriptions/ba3cf4be-ee79-4ea7-b4d8-85598df621ef/resourceGroups/nimbletech/providers/Microsoft.Synapse/workspaces/synapseworkspace4nt"
+		}
+	}
+}
